@@ -1,0 +1,15 @@
+C:\Users\user\Documents\Lab4_ISRPO_Altuhov\server\obj\Debug\net10.0\server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Lab4_ISRPO_Altuhov\server\obj\Debug\net10.0\server.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Lab4_ISRPO_Altuhov\server\obj\Debug\net10.0\server.AssemblyInfo.cs
+C:\Users\user\Documents\Lab4_ISRPO_Altuhov\server\obj\Debug\net10.0\server.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Lab4_ISRPO_Altuhov\server\obj\Debug\net10.0\server.sourcelink.json
+C:\Users\user\Documents\Lab4_ISRPO_Altuhov\server\bin\Debug\net10.0\server.exe
+C:\Users\user\Documents\Lab4_ISRPO_Altuhov\server\bin\Debug\net10.0\server.deps.json
+C:\Users\user\Documents\Lab4_ISRPO_Altuhov\server\bin\Debug\net10.0\server.runtimeconfig.json
+C:\Users\user\Documents\Lab4_ISRPO_Altuhov\server\bin\Debug\net10.0\server.dll
+C:\Users\user\Documents\Lab4_ISRPO_Altuhov\server\bin\Debug\net10.0\server.pdb
+C:\Users\user\Documents\Lab4_ISRPO_Altuhov\server\obj\Debug\net10.0\server.dll
+C:\Users\user\Documents\Lab4_ISRPO_Altuhov\server\obj\Debug\net10.0\refint\server.dll
+C:\Users\user\Documents\Lab4_ISRPO_Altuhov\server\obj\Debug\net10.0\server.pdb
+C:\Users\user\Documents\Lab4_ISRPO_Altuhov\server\obj\Debug\net10.0\server.genruntimeconfig.cache
+C:\Users\user\Documents\Lab4_ISRPO_Altuhov\server\obj\Debug\net10.0\ref\server.dll
